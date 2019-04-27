@@ -1,0 +1,10 @@
+.detailPost {
+    background: white;
+    border-radius: 5px;
+    opacity: 0.9;
+    padding: 1px;
+}
+
+.title{
+    text-transform: uppercase;
+}
